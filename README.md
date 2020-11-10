@@ -15,13 +15,11 @@
 -  [PNU_3991_AR](https://github.com/Mbahalou/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/Mbahalou)
 
-- [رزومه](https://Mbahalou.github.io/Resume/)
+- [رزومه](https://Mbahalou.github.io/Resume1/)
 
 - [SOP](https://Mbahalou.github.io/MySop/)
 
 ------------------
-## Winter Semester Courses 1399/2020
-
 
 
 ## دروس ارشد
